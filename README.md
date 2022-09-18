@@ -1,2 +1,2 @@
 # CPP_Stack
-Universal stack for C/CPP projects. 
+Universal stack for C/CPP projects.
